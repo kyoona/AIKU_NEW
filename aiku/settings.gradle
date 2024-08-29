@@ -1,0 +1,8 @@
+rootProject.name = 'aiku'
+include 'aiku-login'
+include 'aiku-main'
+include 'aiku-map'
+include 'aiku-payment'
+include 'aiku-alarm'
+include 'aiku-common'
+
