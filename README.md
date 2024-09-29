@@ -3,7 +3,7 @@
   <img align='center' src='https://github.com/user-attachments/assets/d14b7984-07a7-47f5-9b0c-0453487fa9dd' width="700"/></img>
 </p>
 <p align="center">
-  약속을 지키는 그날까지 <b>"약속을 편리하게 관리하고, 재미있게 지각을 방지하자”</b>
+  약속을 지키는 그날까지 <b>"약속을 편리하게 관리하고, 재미있게 지각을 방지하자”</b></br>
   본 서비스는 (구)https://github.com/kyoona/AiKu_backend 를 개선하여 서비스 런칭을 목표로 하고 있습니다.
   기존 서버는 단일 서버로 구성되었지만 MSA를 목표로 다시 구현중에 있습니다.
 </p>
