@@ -23,7 +23,7 @@
 | --- | --- |
 | Language | Java |
 | Framework | Spring Boot |
-| Library | Spring Data JPA, Spring Cloud Gateway, Query DSL, JWT |
+| Library | Spring Data JPA, Spring Cloud Gateway, Query DSL |
 | Database | H2 |
 | Infra | AWS, Kafka, Docker, Kubernetes |
 | Cloud Service | Firebase Messaging |
