@@ -54,6 +54,8 @@
 <h2> 진행 과정 </h2>
 
 ### 1. 이벤트 스토밍
+
+<img width="761" alt="스크린샷 2024-10-01 오후 7 55 53" src="https://github.com/user-attachments/assets/426a11b7-980d-4d79-a9e9-413bce325e47">
 <img width="727" alt="스크린샷 2024-10-01 오후 7 52 42" src="https://github.com/user-attachments/assets/0539c844-6168-4721-aa00-c130a300471c">
 
 
