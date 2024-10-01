@@ -75,4 +75,7 @@
 도메인 별 어그리거트를 추출하고 어그리거트 루트를 지정한다.
 <img width="833" alt="스크린샷 2024-10-01 오후 8 24 38" src="https://github.com/user-attachments/assets/a390793d-7145-4d64-a5cf-423b961aa436">
 
+### 3. MSA 분리
+
+
 
