@@ -70,6 +70,7 @@
 ### 2. 바운디드 컨텍스트 분리
 1. 서로 연관된 어그리거트를 찾고 경계를 구분한다.
 2. 어그리거트 루트를 지정한다.
+
 ![Group 3](https://github.com/user-attachments/assets/bfa06bc3-6e59-4ce6-9727-c11824c805d1)
 
 ### 3. MSA 설계를 한다.
