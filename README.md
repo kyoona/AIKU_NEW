@@ -67,6 +67,7 @@
 
 <img width="761" alt="스크린샷 2024-10-01 오후 7 55 53" src="https://github.com/user-attachments/assets/426a11b7-980d-4d79-a9e9-413bce325e47">
 <img width="727" alt="스크린샷 2024-10-01 오후 7 52 42" src="https://github.com/user-attachments/assets/0539c844-6168-4721-aa00-c130a300471c">
+
 확대하면 다음과 같은 과정을 거친다.
 <img width="1027" alt="스크린샷 2024-10-01 오후 7 54 34" src="https://github.com/user-attachments/assets/798c0825-ddf7-411a-a319-b02fb6db9b6e">
 
