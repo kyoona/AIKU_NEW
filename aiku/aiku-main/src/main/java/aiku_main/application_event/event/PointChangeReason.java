@@ -1,0 +1,8 @@
+package aiku_main.application_event.event;
+
+public enum PointChangeReason {
+    SCHEDULE_ENTER, SCHEDULE_EXIT, SCHEDULE_REWARD,
+    BETTING, BETTING_CANCLE, BETTING_REWARD,
+    RACING, RACING_CANCLE, RACING_REWARD,
+    SHOP, SHOP_CANCLE, EVENT, EVENT_CANCLE;
+}
